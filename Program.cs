@@ -1,63 +1,52 @@
-﻿﻿// Homework. Lesson 1.
-// Task 1: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+﻿﻿// HW lesson 2
 
-// Console.WriteLine("Input the first number");
-// int num1 = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("Input the second number");
-// int num2 = Convert.ToInt32(Console.ReadLine());
-// if(num1 > num2)
-//     Console.Write($"Большее число - {num1}, а меньшее - {num2}");
-//     else
-//     Console.Write($"Большее число - {num2}, а меньшее - {num1}");
+// Task 1 Напишите программу, которая принимает
+// на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
 
-// Task 2: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
-
-// Console.WriteLine("Input the first number");
-// int num1 = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("Input the second number");
-// int num2 = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine("Input the third number");
-// int num3 = Convert.ToInt32(Console.ReadLine());
-// int max = num1;
-// if(max < num2)
-//     max = num2;
-// if(max < num3)
-//     max = num3;
-// Console.WriteLine("Максимальное число - " + max);
-
-// Task 3: Напишите программу, которая на вход принимает число и выдаёт,
-// является ли число чётным (делится ли оно на два без остатка).
-
-// Console.WriteLine("Input the number");
-// int num1 = Convert.ToInt32(Console.ReadLine());
-// if(num1 % 2 == 0)
-//     Console.WriteLine("Yes");
-//     else
-//     Console.WriteLine("No");
-
-// Task 4: Напишите программу, которая на вход принимает число (N),
-//  а на выходе показывает все чётные числа от 1 до N.
-
-// Console.WriteLine("Input the number.");
+// int FunctUnit(int num)
+// {
+//     int first = num / 10;
+//     int second = first % 10;
+//     return second;
+// }
+// Console.WriteLine("Input трезначное число");
 // int num = Convert.ToInt32(Console.ReadLine());
-// if(num>1)
-// {
-//     Console.Write("Все четные числа от 1 до " + num + " - ");
-//     while(num>4)
-// {
-//     if(num % 2 == 0)
-//     {
-//     num = num - 2;
-//     Console.Write(num + ", ");
-//     }
-//     else
-//     {
-//     num = num - 1;
-//     Console.Write(num + ", ");
-//     }
-// }
-//     Console.Write("2.");
-// }
-// else
-// Console.Write("Четных чисел между 1 и " + num + " нет");
+// int result = FunctUnit(num);
+// Console.WriteLine($"Вторая цифра вашего числа - {result}");
 
+// Task 2 Напишите программу, которая выводит третью цифру заданного числа
+// или сообщает, что третьей цифры нет.
+
+// int FunctThird(int num)
+// {
+//     if(num>99)
+//     {
+//         while(num > 1000)
+//         {
+//             num = num / 10;
+//         }
+//         int num1 = num % 10;
+//         return num1;
+//     }
+//     else 
+//         return(-1);
+// }
+// Console.WriteLine("Input number");
+// int result = FunctThird(Convert.ToInt32(Console.ReadLine()));
+// if(result == -1) 
+//     Console.WriteLine("третьей цифры нет");
+// else 
+//     Console.WriteLine($"The third unit of yout number is - {result}");
+
+// Task 3 
+
+// bool Weekend(int num)
+// {
+//     if (num == 6 || num == 7)
+//         return true;
+//     else
+//         return false;    
+// }
+// Console.WriteLine("Введите день недели от 1-7");
+// int dayOfWeek = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine( Weekend (dayOfWeek) ? "Выбранный день - выходной" : "Выбранный день - рабочий");
