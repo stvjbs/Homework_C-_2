@@ -12,3 +12,4 @@ int current = 1;
 Console.WriteLine("Input number");
 int n = Convert.ToInt32(Console.ReadLine());
 TableCubes(n);
+// 
