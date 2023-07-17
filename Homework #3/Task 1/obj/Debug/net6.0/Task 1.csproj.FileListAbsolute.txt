@@ -1,0 +1,15 @@
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\bin\Debug\net6.0\Task 1.exe
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\bin\Debug\net6.0\Task 1.deps.json
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\bin\Debug\net6.0\Task 1.runtimeconfig.json
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\bin\Debug\net6.0\Task 1.dll
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\bin\Debug\net6.0\Task 1.pdb
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\Task 1.csproj.AssemblyReference.cache
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfoInputs.cache
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfo.cs
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\Task 1.csproj.CoreCompileInputs.cache
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\Task 1.dll
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\refint\Task 1.dll
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\Task 1.pdb
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\Task 1.genruntimeconfig.cache
+D:\ITшники\C# Домашки (2)\Homework #3\Task 1\obj\Debug\net6.0\ref\Task 1.dll
