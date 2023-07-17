@@ -11,3 +11,4 @@ bool Weekend(int num)
 Console.WriteLine("Введите день недели от 1-7");
 int dayOfWeek = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine( Weekend (dayOfWeek) ? "Выбранный день - выходной" : "Выбранный день - рабочий");
+//
