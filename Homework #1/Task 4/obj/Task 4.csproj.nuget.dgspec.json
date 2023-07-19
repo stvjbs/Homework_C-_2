@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\Task 4.csproj": {}
+    "d:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\Task 4.csproj": {}
   },
   "projects": {
-    "D:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\Task 4.csproj": {
+    "d:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\Task 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\Task 4.csproj",
+        "projectUniqueName": "d:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\Task 4.csproj",
         "projectName": "Task 4",
-        "projectPath": "D:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\Task 4.csproj",
+        "projectPath": "d:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\Task 4.csproj",
         "packagesPath": "C:\\Users\\A-Servis\\.nuget\\packages\\",
-        "outputPath": "D:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\obj\\",
+        "outputPath": "d:\\ITшники\\C# Домашки (2)\\Homework #1\\Task 4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A-Servis\\AppData\\Roaming\\NuGet\\NuGet.Config"
