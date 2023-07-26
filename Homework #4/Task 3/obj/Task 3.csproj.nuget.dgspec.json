@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\ITшники\\C# Домашки (2)\\Homework #4\\Task 3\\Task 3.csproj": {}
+    "c:\\Games\\C# Домашки (2)\\Homework #4\\Task 3\\Task 3.csproj": {}
   },
   "projects": {
-    "d:\\ITшники\\C# Домашки (2)\\Homework #4\\Task 3\\Task 3.csproj": {
+    "c:\\Games\\C# Домашки (2)\\Homework #4\\Task 3\\Task 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\ITшники\\C# Домашки (2)\\Homework #4\\Task 3\\Task 3.csproj",
+        "projectUniqueName": "c:\\Games\\C# Домашки (2)\\Homework #4\\Task 3\\Task 3.csproj",
         "projectName": "Task 3",
-        "projectPath": "d:\\ITшники\\C# Домашки (2)\\Homework #4\\Task 3\\Task 3.csproj",
+        "projectPath": "c:\\Games\\C# Домашки (2)\\Homework #4\\Task 3\\Task 3.csproj",
         "packagesPath": "C:\\Users\\A-Servis\\.nuget\\packages\\",
-        "outputPath": "d:\\ITшники\\C# Домашки (2)\\Homework #4\\Task 3\\obj\\",
+        "outputPath": "c:\\Games\\C# Домашки (2)\\Homework #4\\Task 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A-Servis\\AppData\\Roaming\\NuGet\\NuGet.Config"
