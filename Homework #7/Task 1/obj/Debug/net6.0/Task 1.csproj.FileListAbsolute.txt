@@ -1,0 +1,5 @@
+C:\Games\C# Домашки (2)\Homework #7\Task 1\obj\Debug\net6.0\Task 1.csproj.AssemblyReference.cache
+C:\Games\C# Домашки (2)\Homework #7\Task 1\obj\Debug\net6.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\C# Домашки (2)\Homework #7\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfoInputs.cache
+C:\Games\C# Домашки (2)\Homework #7\Task 1\obj\Debug\net6.0\Task 1.AssemblyInfo.cs
+C:\Games\C# Домашки (2)\Homework #7\Task 1\obj\Debug\net6.0\Task 1.csproj.CoreCompileInputs.cache
