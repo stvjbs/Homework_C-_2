@@ -1,20 +1,23 @@
 ﻿// Task 47 Задайте двумерный массив размером m*n заполненный случайными вещественными числами. 
 
-double[,] CreateRandomMatrix(int rows, int columns, double minValue, double maxValue)
+double[,] CreateRandomMatrix(int rows, int columns)
 {
     double[,] matrix = new double[rows, columns];
+    Random random = new Random();
+
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            matrix[i, j] = new Random().ToDouble(minValue,maxValue+1);
+            double randomNumber = random.NextDouble() * 100 + 1;
+            matrix[i, j] = Math.Round(randomNumber, 2);
         }
     }
     return matrix;
 }
 
 
-void ShowMatrix(int[,] matrix)
+void ShowMatrix(double[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
@@ -27,6 +30,6 @@ void ShowMatrix(int[,] matrix)
     }
 }
 
-double[,] array2d = CreateRandomMatrix(3, 4, 1, 10);
+double[,] array2d = CreateRandomMatrix(3, 4);
 
 ShowMatrix(array2d);

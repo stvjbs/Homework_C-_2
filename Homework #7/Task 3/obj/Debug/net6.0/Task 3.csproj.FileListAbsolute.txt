@@ -1,0 +1,15 @@
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\Task 3.csproj.AssemblyReference.cache
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\Task 3.AssemblyInfoInputs.cache
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\Task 3.AssemblyInfo.cs
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\Task 3.csproj.CoreCompileInputs.cache
+C:\Games\C# Домашки (2)\Homework #7\Task 3\bin\Debug\net6.0\Task 3.exe
+C:\Games\C# Домашки (2)\Homework #7\Task 3\bin\Debug\net6.0\Task 3.deps.json
+C:\Games\C# Домашки (2)\Homework #7\Task 3\bin\Debug\net6.0\Task 3.runtimeconfig.json
+C:\Games\C# Домашки (2)\Homework #7\Task 3\bin\Debug\net6.0\Task 3.dll
+C:\Games\C# Домашки (2)\Homework #7\Task 3\bin\Debug\net6.0\Task 3.pdb
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\Task 3.dll
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\refint\Task 3.dll
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\Task 3.pdb
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\Task 3.genruntimeconfig.cache
+C:\Games\C# Домашки (2)\Homework #7\Task 3\obj\Debug\net6.0\ref\Task 3.dll
