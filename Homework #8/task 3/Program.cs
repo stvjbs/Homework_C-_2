@@ -55,10 +55,10 @@ int[,] MultiplyMatrixes(int[,] a, int[,] b)
     return c;
 }
 
-int[,] matrix1 = CreateRandomMatrix(3, 4, 1, 5);
+int[,] matrix1 = CreateRandomMatrix(3, 3, 1, 5);
 ShowMatrix(matrix1);
 Console.WriteLine();
-int[,] matrix2 = CreateRandomMatrix(4, 3, 1, 5);
+int[,] matrix2 = CreateRandomMatrix(2, 3, 1, 5);
 ShowMatrix(matrix2);
 
 if (!CheckPosibility(matrix1, matrix2))
